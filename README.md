@@ -91,4 +91,4 @@ python financial_data_extractor.py ./reports_folder --format excel --output ./ex
 
 ## License
 
-This project is not open source. Meant for private use only
+This project is open source.
